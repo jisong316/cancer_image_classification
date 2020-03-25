@@ -13,4 +13,4 @@ __How to run__
 2. Data preprocessing: [cancer_classification-data_preprocessing-RF.ipynb](https://github.com/jisong316/cancer_image_classification/blob/master/cancer_classification-data_preprocessing-RF.ipynb)  
 3. Modeling part 1: [cancer_classification-ET.ipynb](https://github.com/jisong316/cancer_image_classification/blob/master/cancer_classification-ET.ipynb)  
 4. Modeling part 2: [cancer_classification-keras.ipynb](https://github.com/jisong316/cancer_image_classification/blob/master/cancer_classification-keras.ipynb)  
-5. Summary/Presentation: 
+5. Summary/Presentation: [breast_cancer_classification.pdf]
